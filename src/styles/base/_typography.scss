@@ -1,0 +1,11 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.header-primary {
+  color: red;
+  padding-bottom: 1rem;
+  text-transform: uppercase;
+  display: block;
+  border-bottom: 1rem solid $color-primary-light;
+}
